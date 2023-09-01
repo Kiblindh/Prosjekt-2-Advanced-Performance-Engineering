@@ -1,0 +1,17 @@
+Game 
+[Event: CCRL 40/15]
+[Site: CCRL]
+[Date: 2022.04.20]
+[Round: 820.1.525]
+[White: Stockfish 15 64-bit]
+[Black: Arasan 23.3 64-bit]
+[Result: 1-0]
+[ECO: A03]
+[Opening: Bird's opening]
+[Variation: ]
+[PlyCount: 99]
+[Black: Arasan 23.3 64-bit]
+[WhiteElo: 3511]
+[BlackElo: 3333]
+
+['f4', 'd5', 'b3', 'Bg4', 'Bb2', 'Nc6', 'h3', 'Bh5', 'g4', 'Bg6', 'Nf3', 'h5', 'g5', 'e6', 'e3', 'Nge7', 'Bb5', 'a6', 'Bxc6+', 'Nxc6', 'd3', 'Qe7', 'Qe2', 'O-O-O', 'Qf2', 'f6', 'Nh4', 'Bf7', 'gxf6', 'Nc3', 'Qe8', 'O-O-O', 'e5', 'Rdf1', 'Be6', 'f5', 'Bf7', 'Kb1', 'Ng6', 'Rg8', 'Rhg1', 'Rxg1', 'Bc5', 'Rxg1', 'Bc5', 'Ng6', 'b6', 'Na4', 'Bd6', 'Nc3', 'Bc5', 'Bc1', 'Qd7', 'Qf3', 'Kb8', 'Qxh5', 'Nb4', 'Na4', 'Bd6', 'Qg4', 'Bd2', 'Qc6', 'Qg2', 'b5', 'Nb2', 'Qb6', 'Bd2', 'Bc5', 'c3', 'Nc6', 'd4', 'Bd6', 'h4', 'b4', 'dxe5', 'Nxe5', 'cxb4', 'd4', 'Nc6', 'e4', 'd3', 'Rd1', 'h5', 'Nc6', 'h5', 'Bxb4', 'Bc1', 'd2', 'Bxd2', 'Ba3', 'Qe2', 'Kb7', 'Bc1', 'Bxb2', 'Kxb2', 'Rxd1', 'Qxd1', 'Qf2+', 'Qd2', 'Qg1', 'Qc5', 'h6', 'Bxg6', 'fxg6']
